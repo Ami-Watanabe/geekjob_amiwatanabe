@@ -1,0 +1,4 @@
+プロセッサ(CPU)
+       Intel(R) Core(TM) i5-6300U CPU @2.40GHz 2.50GHz
+実装RAM(メモリ)
+　     800 GB
