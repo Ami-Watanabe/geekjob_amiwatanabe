@@ -12,8 +12,11 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World.</h1>
+        <%
+            out.print("Hello World.");
+            
+        
+        %>
+        
     </body>
 </html>
-
-<% out.print("Hello World.");%>
